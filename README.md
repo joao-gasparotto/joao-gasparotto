@@ -12,7 +12,7 @@
 </div>
 
 <br>
-![Uploading mindset.gif…]()
+
 
 ## 01 / About Me
 
