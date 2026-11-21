@@ -1,6 +1,7 @@
-<img width="320" height="320" alt="mindset" src="https://github.com/user-attachments/assets/d9536336-47a9-4b03-9a6c-de114af52235" />
+
 
 <div align="center">
+
 
 # Web & Mobile Developer
 
